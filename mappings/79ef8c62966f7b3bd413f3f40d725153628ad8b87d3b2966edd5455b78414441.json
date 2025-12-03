@@ -1,0 +1,44 @@
+{
+    "subject": "79ef8c62966f7b3bd413f3f40d725153628ad8b87d3b2966edd5455b78414441",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "xADA",
+        "signatures": [
+            {
+                "signature": "b5c22cdf36ff17f8069a30c2de0ff0413d6d9d7e53afaad1deac9eaf0ec47928a7d1587165f8a3bafd87ac1545542ee079bf9266fa8968106a908522488eaf0c",
+                "publicKey": "f5a8e7c5122096e570fd599579b33436feb17808a4deac4c3c057c0241ba41f2"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "xADA",
+        "signatures": [
+            {
+                "signature": "74743372e7789175d763a07f57411b88094a8112945e3c71f0e2659120c5d3a6d68105f4a0d62bad6ffa68b72f1a9474d84566764357633664f0891b72d7d105",
+                "publicKey": "f5a8e7c5122096e570fd599579b33436feb17808a4deac4c3c057c0241ba41f2"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "90668b23249591bf0527c4ca873744c6f7cdf36834f8d1e219d2309b28f6e91ce63b3396274e1a7649042f6f1c0ad3aad476afee3f10062d8e07690d98e01408",
+                "publicKey": "f5a8e7c5122096e570fd599579b33436feb17808a4deac4c3c057c0241ba41f2"
+            }
+        ]
+    },
+    "policy": "820182018282051a00750ca98200581c5659c4220f745d42dbf2366675097357a0bbb367801ae3d4d454ccde",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Apex Fusion ADA",
+        "signatures": [
+            {
+                "signature": "d29d1ec2d29a6201502814490090cc144be103f705199cf1ea8e50f47531528de5006e4795915cc534497158678c0555ea5c6b6b99c05d824df85aebb73b9c03",
+                "publicKey": "f5a8e7c5122096e570fd599579b33436feb17808a4deac4c3c057c0241ba41f2"
+            }
+        ]
+    }
+}
